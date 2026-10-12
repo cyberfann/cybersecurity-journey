@@ -1,1 +1,2 @@
 # cybersecurity-journey
+saat itu saya sedang melakukan teknik dorking di googe dengan payload "index of/ intext kk. ketika saya membuka salah satu web yang bocor dan menampilkan index, saat saya klik link nya disitu saya menemukan beberapa identitas yang bocor seperti foto pribadi, KTP, dan KK. Saya tidak menyebarkan data tersebut ke publik saya hanya melakukan testing dan teranyata saya menemukan data seseorang yang bocor ke internet.
